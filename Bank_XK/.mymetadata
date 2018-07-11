@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="Bank_XK"
+  id="myeclipse.1530724883036"
+  context-root="/Bank_XK"
+  j2ee-spec="5.0"
+  archive="Bank_XK.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
